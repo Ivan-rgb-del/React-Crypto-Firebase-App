@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Crypto-Firebase-App/static/css/main.036917a0.css",
+    "main.js": "/React-Crypto-Firebase-App/static/js/main.cbd5fa98.js",
+    "index.html": "/React-Crypto-Firebase-App/index.html",
+    "main.036917a0.css.map": "/React-Crypto-Firebase-App/static/css/main.036917a0.css.map",
+    "main.cbd5fa98.js.map": "/React-Crypto-Firebase-App/static/js/main.cbd5fa98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.036917a0.css",
+    "static/js/main.cbd5fa98.js"
+  ]
+}
